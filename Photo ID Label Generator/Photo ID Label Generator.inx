@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+  <name>Photo ID Label Generator</name>
+  <id>net.therac25.text.Photo_ID_Label_Generator</id>
+  <effect>
+    <object-type>all</object-type>
+    <effects-menu>
+      <submenu name="Text">
+      </submenu>
+    </effects-menu>
+  </effect>
+  <script>
+    <command location="inx" interpreter="python">Photo ID Label Generator.py</command>
+  </script>
+</inkscape-extension>
